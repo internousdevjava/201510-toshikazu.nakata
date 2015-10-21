@@ -23,7 +23,7 @@ public class KisoKadai2{
 	        if(ran<0){
 	            ran*= -1;
 	        }
-	        System.out.println("”š‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B");
+	        System.out.println("ƒ‰ƒ“ƒ_ƒ€‚Ì”š‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B");
 	                
 	        while(end==0){
 	            try{
